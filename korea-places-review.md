@@ -7,7 +7,7 @@ Auto-extracted from 101 Instagram/Facebook links → 254 unique places. Geocoded
 - 🔴 **Unresolved** — no clean Naver hit (regions, unnamed spots, romanized-only names). Find manually via the source link.
 
 
-## 🟢 High confidence (110)
+## 🟢 High confidence (116)
 
 
 ### Activities to do
@@ -17,10 +17,11 @@ Auto-extracted from 101 Instagram/Facebook links → 254 unique places. Geocoded
 | Noryangjin Underground Sewer | 노량진 지하배수로 | 서울특별시 동작구 노량진동 14-5 | [Naver](https://map.naver.com/p/search/%EB%85%B8%EB%9F%89%EC%A7%84%20%EC%A7%80%ED%95%98%EB%B0%B0%EC%88%98%EB%A1%9C) · [src](https://www.instagram.com/reel/DZHA6W2hl66/) |
 | Yoonseul: Manridong Reflecting Seoul | 윤슬 서울을 비추는 만리동 | 서울특별시 중구 퇴계로 33 | [Naver](https://map.naver.com/p/search/%EC%9C%A4%EC%8A%AC%20%EC%84%9C%EC%9A%B8%EC%9D%84%20%EB%B9%84%EC%B6%94%EB%8A%94%20%EB%A7%8C%EB%A6%AC%EB%8F%99) · [src](https://www.instagram.com/reel/DZHA6W2hl66/) |
 | Seoul Botanic Park | 서울식물원 | 서울특별시 강서구 마곡동로 161 서울식물원 | [Naver](https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90) · [src1](https://www.instagram.com/reel/DWWmskLjDoJ/) / [src2](https://www.instagram.com/reel/DV3U9aMsTqi/) |
+| Ilsan Lake Park | 일산호수공원 | 경기도 고양시 일산동구 호수로 731 | [Naver](https://map.naver.com/p/search/%EC%9D%BC%EC%82%B0%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90) · [src](https://www.instagram.com/reel/DWWmskLjDoJ/) |
 | Seokchon Lake | 석촌호수 | 서울특별시 송파구 잠실동 | [Naver](https://map.naver.com/p/search/%EC%84%9D%EC%B4%8C%ED%98%B8%EC%88%98) · [src1](https://www.instagram.com/reel/DWWmskLjDoJ/) / [src2](https://www.instagram.com/reel/DV3U9aMsTqi/) |
-| Bulgwangcheon Stream | 올댓커피 불광천점 | 서울특별시 서대문구 거북골로 224 1층, 2층 | [Naver](https://map.naver.com/p/search/%EC%98%AC%EB%8C%93%EC%BB%A4%ED%94%BC%20%EB%B6%88%EA%B4%91%EC%B2%9C%EC%A0%90) · [src](https://www.instagram.com/reel/DWWmskLjDoJ/) |
+| Bulgwangcheon Stream | 불광천 | 서울특별시 서대문구 불광천길 278 1층 | [Naver](https://map.naver.com/p/search/%EB%B6%88%EA%B4%91%EC%B2%9C) · [src](https://www.instagram.com/reel/DWWmskLjDoJ/) |
 | Jebudo Island | 제부도 | 경기도 화성시 만세구 서신면 제부리 | [Naver](https://map.naver.com/p/search/%EC%A0%9C%EB%B6%80%EB%8F%84) · [src](https://www.instagram.com/reel/DWWmskLjDoJ/) |
-| Hongjecheon Artificial Waterfall | 컴포즈커피 홍제폭포점 | 서울특별시 서대문구 연희로 262-37 | [Naver](https://map.naver.com/p/search/%EC%BB%B4%ED%8F%AC%EC%A6%88%EC%BB%A4%ED%94%BC%20%ED%99%8D%EC%A0%9C%ED%8F%AD%ED%8F%AC%EC%A0%90) · [src](https://www.instagram.com/reel/DWWmskLjDoJ/) |
+| Hongjecheon Artificial Waterfall | 홍제천 인공폭포 | 서울특별시 서대문구 | [Naver](https://map.naver.com/p/search/%ED%99%8D%EC%A0%9C%EC%B2%9C%20%EC%9D%B8%EA%B3%B5%ED%8F%AD%ED%8F%AC) · [src](https://www.instagram.com/reel/DWWmskLjDoJ/) |
 | Yangyang | 양양군청 | 강원특별자치도 양양군 양양읍 군청길 1 양양군청 | [Naver](https://map.naver.com/p/search/%EC%96%91%EC%96%91%EA%B5%B0%EC%B2%AD) · [src](https://www.instagram.com/reel/DWWmskLjDoJ/) |
 | Cheonggyecheon Stream | 청계천 | 서울특별시 종로구 창신동 | [Naver](https://map.naver.com/p/search/%EC%B2%AD%EA%B3%84%EC%B2%9C) · [src1](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) / [src2](https://www.instagram.com/reel/DWWmskLjDoJ/) / [src3](https://www.instagram.com/reel/DXyi85gvkS3/) |
 | Changdeokgung Secret Garden | 창덕궁 후원 | 서울특별시 종로구 율곡로 99 창덕궁 | [Naver](https://map.naver.com/p/search/%EC%B0%BD%EB%8D%95%EA%B6%81%20%ED%9B%84%EC%9B%90) · [src](https://www.instagram.com/reel/DWWmskLjDoJ/) |
@@ -31,20 +32,22 @@ Auto-extracted from 101 Instagram/Facebook links → 254 unique places. Geocoded
 | Gyeongpoho Lake | 경포호 | 강원특별자치도 강릉시 저동 | [Naver](https://map.naver.com/p/search/%EA%B2%BD%ED%8F%AC%ED%98%B8) · [src](https://www.instagram.com/reel/DWWmskLjDoJ/) |
 | Arte Museum Gangneung | 아르떼뮤지엄 강릉 | 강원특별자치도 강릉시 난설헌로 131 | [Naver](https://map.naver.com/p/search/%EC%95%84%EB%A5%B4%EB%96%BC%EB%AE%A4%EC%A7%80%EC%97%84%20%EA%B0%95%EB%A6%89) · [src1](https://www.instagram.com/reel/DWWmskLjDoJ/) / [src2](https://www.instagram.com/reel/DV3U9aMsTqi/) |
 | Hongneung Forest | 홍릉시험림(홍릉숲) | 서울특별시 동대문구 회기로 57 | [Naver](https://map.naver.com/p/search/%ED%99%8D%EB%A6%89%EC%8B%9C%ED%97%98%EB%A6%BC%28%ED%99%8D%EB%A6%89%EC%88%B2%29) · [src](https://www.instagram.com/p/DW_HGIGkSeI/?img_index=6) |
-| Hannam-dong | 한남동 주민센터 | 서울특별시 용산구 대사관로5길 1 한남동주민센터, 어린이집 | [Naver](https://map.naver.com/p/search/%ED%95%9C%EB%82%A8%EB%8F%99%20%EC%A3%BC%EB%AF%BC%EC%84%BC%ED%84%B0) · [src](https://www.instagram.com/reel/DV3U9aMsTqi/) |
-| Mangwon Market | 스시벅스 망원시장점 | 서울특별시 마포구 월드컵로13길 13 2층 | [Naver](https://map.naver.com/p/search/%EC%8A%A4%EC%8B%9C%EB%B2%85%EC%8A%A4%20%EB%A7%9D%EC%9B%90%EC%8B%9C%EC%9E%A5%EC%A0%90) · [src](https://www.instagram.com/reel/DV3U9aMsTqi/) |
-| Lotte World | 분지로 롯데월드몰점 | 서울특별시 송파구 올림픽로 300 롯데월드몰 5층 | [Naver](https://map.naver.com/p/search/%EB%B6%84%EC%A7%80%EB%A1%9C%20%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C%EB%AA%B0%EC%A0%90) · [src1](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) / [src2](https://www.instagram.com/reel/DV3U9aMsTqi/) |
+| Hannam-dong | 한남동 | 서울특별시 용산구 이태원로54가길 26 지하 1층 | [Naver](https://map.naver.com/p/search/%ED%95%9C%EB%82%A8%EB%8F%99) · [src](https://www.instagram.com/reel/DV3U9aMsTqi/) |
+| Mangwon Market | 망원시장 | 서울특별시 마포구 월드컵로19길 51 1층 | [Naver](https://map.naver.com/p/search/%EB%A7%9D%EC%9B%90%EC%8B%9C%EC%9E%A5) · [src](https://www.instagram.com/reel/DV3U9aMsTqi/) |
+| Lotte World | 롯데월드 | 서울특별시 송파구 올림픽로 300 롯데월드몰 지하1층 | [Naver](https://map.naver.com/p/search/%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C) · [src1](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) / [src2](https://www.instagram.com/reel/DV3U9aMsTqi/) |
 | Huinnyeoul Culture Village | 흰여울문화마을 | 부산광역시 영도구 영선동4가 605-3 | [Naver](https://map.naver.com/p/search/%ED%9D%B0%EC%97%AC%EC%9A%B8%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84) · [src](https://www.instagram.com/reel/DV3U9aMsTqi/) |
 
 ### Architecture
 
 | Place | Naver match | Address | Links |
 |---|---|---|---|
-| Leeum Museum of Art | 카멜커피 리움미술관점 | 서울특별시 용산구 이태원로55길 60-16 리움미술관 로비 지하3층 | [Naver](https://map.naver.com/p/search/%EC%B9%B4%EB%A9%9C%EC%BB%A4%ED%94%BC%20%EB%A6%AC%EC%9B%80%EB%AF%B8%EC%88%A0%EA%B4%80%EC%A0%90) · [src1](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) / [src2](https://www.instagram.com/p/DXT5NWKEhQY/?img_index=5) / [src3](https://www.instagram.com/p/DZD4-dzDSTT/?img_index=5) |
+| Leeum Museum of Art | 리움미술관 | 서울특별시 용산구 이태원로55길 60-16 | [Naver](https://map.naver.com/p/search/%EB%A6%AC%EC%9B%80%EB%AF%B8%EC%88%A0%EA%B4%80) · [src1](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) / [src2](https://www.instagram.com/p/DXT5NWKEhQY/?img_index=5) / [src3](https://www.instagram.com/p/DZD4-dzDSTT/?img_index=5) |
 | JUUN.J Dosan Flagship | 준지 도산 플래그십 스토어 | 서울특별시 강남구 언주로164길 23 (신사동) 준지 도산 플래그쉽스토어 | [Naver](https://map.naver.com/p/search/%EC%A4%80%EC%A7%80%20%EB%8F%84%EC%82%B0%20%ED%94%8C%EB%9E%98%EA%B7%B8%EC%8B%AD%20%EC%8A%A4%ED%86%A0%EC%96%B4) · [src](https://www.instagram.com/p/DXT5NWKEhQY/?img_index=5) |
 | SongEun Art and Cultural Foundation | 송은 | 서울특별시 강남구 도산대로 441 | [Naver](https://map.naver.com/p/search/%EC%86%A1%EC%9D%80) · [src](https://www.instagram.com/p/DXT5NWKEhQY/?img_index=5) |
 | Audeum Audio Museum | 오디움 | 서울특별시 서초구 헌릉로8길 6 | [Naver](https://map.naver.com/p/search/%EC%98%A4%EB%94%94%EC%9B%80) · [src](https://www.instagram.com/p/DXT5NWKEhQY/?img_index=5) |
 | Dongdaemun Design Plaza (DDP) | 동대문디자인플라자 | 서울특별시 중구 을지로 281 | [Naver](https://map.naver.com/p/search/%EB%8F%99%EB%8C%80%EB%AC%B8%EB%94%94%EC%9E%90%EC%9D%B8%ED%94%8C%EB%9D%BC%EC%9E%90) · [src](https://www.instagram.com/p/DXT5NWKEhQY/?img_index=5) |
+| Starfield Library | 별마당도서관 (코엑스) | 서울특별시 강남구 영동대로 513 스타필드 코엑스몰 B1 | [Naver](https://map.naver.com/p/search/%EB%B3%84%EB%A7%88%EB%8B%B9%EB%8F%84%EC%84%9C%EA%B4%80%20%28%EC%BD%94%EC%97%91%EC%8A%A4%29) · [src](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) |
+| GT Tower | GT타워 | 서울특별시 서초구 서초대로73길 12 세계빌딩 | [Naver](https://map.naver.com/p/search/GT%ED%83%80%EC%9B%8C) · [src](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) |
 | Yoonseul: Manridong Reflecting Seoul | 윤슬 | 서울특별시 중구 세종대로 14 그랜드센트럴 1층 | [Naver](https://map.naver.com/p/search/%EC%9C%A4%EC%8A%AC) · [src](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) |
 | MYOUN | 묘운MYOUN | 서울특별시 동대문구 제기로 19-10 3층 302호 | [Naver](https://map.naver.com/p/search/%EB%AC%98%EC%9A%B4MYOUN) · [src](https://www.instagram.com/p/DXeKplTjCJx/?img_index=4) |
 
@@ -85,6 +88,7 @@ Auto-extracted from 101 Instagram/Facebook links → 254 unique places. Geocoded
 | Place | Naver match | Address | Links |
 |---|---|---|---|
 | The Garden of Morning Calm | 아침고요수목원 | 경기도 가평군 상면 수목원로 432 | [Naver](https://map.naver.com/p/search/%EC%95%84%EC%B9%A8%EA%B3%A0%EC%9A%94%EC%88%98%EB%AA%A9%EC%9B%90) · [src](https://www.instagram.com/reel/DXmSdgkkSQ8/) |
+| Museum SAN | 뮤지엄 산 | 강원특별자치도 원주시 지정면 오크밸리2길 260 뮤지엄산 | [Naver](https://map.naver.com/p/search/%EB%AE%A4%EC%A7%80%EC%97%84%20%EC%82%B0) · [src](https://www.instagram.com/reel/DXmSdgkkSQ8/) |
 | Lee Jaehyo Gallery | 이재효갤러리 | 경기도 양평군 지평면 초천길 83-22 이재효갤러리 | [Naver](https://map.naver.com/p/search/%EC%9D%B4%EC%9E%AC%ED%9A%A8%EA%B0%A4%EB%9F%AC%EB%A6%AC) · [src](https://www.instagram.com/reel/DXmSdgkkSQ8/) |
 | Dumulmeori | 두물머리 | 경기도 양평군 양서면 양수리 | [Naver](https://map.naver.com/p/search/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC) · [src](https://www.instagram.com/reel/DXmSdgkkSQ8/) |
 | Nami Island | 남이섬 | 강원특별자치도 춘천시 남산면 남이섬길 1 | [Naver](https://map.naver.com/p/search/%EB%82%A8%EC%9D%B4%EC%84%AC) · [src](https://www.instagram.com/reel/DW3Y1URkywP/) |
@@ -113,11 +117,18 @@ Auto-extracted from 101 Instagram/Facebook links → 254 unique places. Geocoded
 |---|---|---|---|
 | Unagi Kyodai | 우나기쿄다이 | 서울특별시 관악구 청룡1길 16 101호 | [Naver](https://map.naver.com/p/search/%EC%9A%B0%EB%82%98%EA%B8%B0%EC%BF%84%EB%8B%A4%EC%9D%B4) · [src](https://www.instagram.com/reel/DWp_wqLCTKn/) |
 
+### Gyeongju
+
+| Place | Naver match | Address | Links |
+|---|---|---|---|
+| Gyeongju | 경주역 | 경상북도 경주시 건천읍 화천리 1319-1 | [Naver](https://map.naver.com/p/search/%EA%B2%BD%EC%A3%BC%EC%97%AD) · [src](https://www.instagram.com/p/DYJ7QeyEoD3/?img_index=6) |
+| Hwangridan-gil | 황리단길 | 경상북도 경주시 포석로 1080 | [Naver](https://map.naver.com/p/search/%ED%99%A9%EB%A6%AC%EB%8B%A8%EA%B8%B8) · [src](https://www.instagram.com/p/DYJ7QeyEoD3/?img_index=6) |
+
 ### HONGDAE
 
 | Place | Naver match | Address | Links |
 |---|---|---|---|
-| Hongdae | 루프캣미 고양이카페 홍대점 | 서울특별시 마포구 양화로 140 H-CUBE B2F | [Naver](https://map.naver.com/p/search/%EB%A3%A8%ED%94%84%EC%BA%A3%EB%AF%B8%20%EA%B3%A0%EC%96%91%EC%9D%B4%EC%B9%B4%ED%8E%98%20%ED%99%8D%EB%8C%80%EC%A0%90) · [src1](https://www.instagram.com/p/DXWTa0KDxtq/?img_index=6) / [src2](https://www.instagram.com/p/DY9Qlk-lJ0S/?img_index=12) |
+| Hongdae | 홍대 (홍익대 일대) | 서울특별시 마포구 와우산로 94 | [Naver](https://map.naver.com/p/search/%ED%99%8D%EB%8C%80%20%28%ED%99%8D%EC%9D%B5%EB%8C%80%20%EC%9D%BC%EB%8C%80%29) · [src1](https://www.instagram.com/p/DXWTa0KDxtq/?img_index=6) / [src2](https://www.instagram.com/p/DY9Qlk-lJ0S/?img_index=12) |
 | The Grazing Pig | 풀뜯는돼지 | 서울특별시 마포구 동교로32길 7 1층 풀뜯는돼지 | [Naver](https://map.naver.com/p/search/%ED%92%80%EB%9C%AF%EB%8A%94%EB%8F%BC%EC%A7%80) · [src](https://www.instagram.com/p/DXWTa0KDxtq/?img_index=6) |
 | Olive Young Hongdae Town | 올리브영 홍대 타운 | 서울특별시 마포구 홍익로6길 57 올리브영 홍대 타운 | [Naver](https://map.naver.com/p/search/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81%20%ED%99%8D%EB%8C%80%20%ED%83%80%EC%9A%B4) · [src](https://www.instagram.com/p/DXWTa0KDxtq/?img_index=6) |
 | Kakao Friends Hongdae Flagship Store | 카카오프렌즈 홍대플래그십 스토어 | 서울특별시 마포구 양화로 162 좋은사람들빌딩 1~3층 | [Naver](https://map.naver.com/p/search/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%20%ED%99%8D%EB%8C%80%ED%94%8C%EB%9E%98%EA%B7%B8%EC%8B%AD%20%EC%8A%A4%ED%86%A0%EC%96%B4) · [src](https://www.instagram.com/p/DXWTa0KDxtq/?img_index=6) |
@@ -183,9 +194,9 @@ Auto-extracted from 101 Instagram/Facebook links → 254 unique places. Geocoded
 
 | Place | Naver match | Address | Links |
 |---|---|---|---|
-| National Museum of Korea | 투썸플레이스 국립중앙박물관1점 | 서울특별시 용산구 서빙고로 137 국립중앙박물관 | [Naver](https://map.naver.com/p/search/%ED%88%AC%EC%8D%B8%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%20%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%801%EC%A0%90) · [src1](https://www.instagram.com/p/DXblkyCD_Z5/?img_index=9) / [src2](https://www.instagram.com/p/DWl8iErk97r/?img_index=4) |
+| National Museum of Korea | 국립중앙박물관 | 서울특별시 용산구 서빙고로 137 국립중앙박물관 | [Naver](https://map.naver.com/p/search/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%80) · [src1](https://www.instagram.com/p/DXblkyCD_Z5/?img_index=9) / [src2](https://www.instagram.com/p/DWl8iErk97r/?img_index=4) |
 | National Museum of Modern and Contemporary Art | 국립현대미술관 서울 | 서울특별시 종로구 삼청로 30 | [Naver](https://map.naver.com/p/search/%EA%B5%AD%EB%A6%BD%ED%98%84%EB%8C%80%EB%AF%B8%EC%88%A0%EA%B4%80%20%EC%84%9C%EC%9A%B8) · [src](https://www.instagram.com/p/DWl8iErk97r/?img_index=4) |
-| Gyeongju National Museum | 이디야커피 국립경주박물관점 | 경상북도 경주시 일정로 186 | [Naver](https://map.naver.com/p/search/%EC%9D%B4%EB%94%94%EC%95%BC%EC%BB%A4%ED%94%BC%20%EA%B5%AD%EB%A6%BD%EA%B2%BD%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80%EC%A0%90) · [src](https://www.instagram.com/p/DWl8iErk97r/?img_index=4) |
+| Gyeongju National Museum | 국립경주박물관 | 경상북도 경주시 일정로 186 국립경주박물관 | [Naver](https://map.naver.com/p/search/%EA%B5%AD%EB%A6%BD%EA%B2%BD%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80) · [src](https://www.instagram.com/p/DWl8iErk97r/?img_index=4) |
 | Gongju National Museum | 국립공주박물관 | 충청남도 공주시 관광단지길 34 국립공주박물관 | [Naver](https://map.naver.com/p/search/%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80) · [src](https://www.instagram.com/p/DWl8iErk97r/?img_index=4) |
 
 ### List of restaurants
@@ -250,16 +261,14 @@ Auto-extracted from 101 Instagram/Facebook links → 254 unique places. Geocoded
 | Shinheung Market | 해방촌 신흥시장 | 서울특별시 용산구 신흥로 95-9 2층 | [Naver](https://map.naver.com/p/search/%ED%95%B4%EB%B0%A9%EC%B4%8C%20%EC%8B%A0%ED%9D%A5%EC%8B%9C%EC%9E%A5) · [src](https://www.instagram.com/reel/DWxRy5URy3q/) |
 | Haebangchon | 해방촌 | 서울특별시 용산구 용산동2가 | [Naver](https://map.naver.com/p/search/%ED%95%B4%EB%B0%A9%EC%B4%8C) · [src1](https://www.instagram.com/reel/DV3U9aMsTqi/) / [src2](https://www.instagram.com/reel/DWxRy5URy3q/) |
 
-## 🟡 Check (87)
+## 🟡 Check (81)
 
 
 ### Activities to do
 
 | Place | Naver match | Address | Links |
 |---|---|---|---|
-| Ilsan Lake Park | 부페파크 | 경기도 고양시 일산동구 정발산로 43-20 10층 부페파크 | [Naver](https://map.naver.com/p/search/%EB%B6%80%ED%8E%98%ED%8C%8C%ED%81%AC) · [src](https://www.instagram.com/reel/DWWmskLjDoJ/) |
 | Skybay Hotel | 스카이베이호텔 경포 | 강원특별자치도 강릉시 해안로 476 스카이베이호텔 경포 | [Naver](https://map.naver.com/p/search/%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%B2%A0%EC%9D%B4%ED%98%B8%ED%85%94%20%EA%B2%BD%ED%8F%AC) · [src](https://www.instagram.com/reel/DWWmskLjDoJ/) |
-| South Korea | 씨아이이이 사우스코리아 | 서울특별시 종로구 종로 68 2층 | [Naver](https://map.naver.com/p/search/%EC%94%A8%EC%95%84%EC%9D%B4%EC%9D%B4%EC%9D%B4%20%EC%82%AC%EC%9A%B0%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84) · [src](https://www.instagram.com/p/DWTsQNSjAcb/?img_index=6) |
 
 ### Architecture
 
@@ -269,7 +278,6 @@ Auto-extracted from 101 Instagram/Facebook links → 254 unique places. Geocoded
 | Seoul | 서울석촌동고분군 | 서울특별시 송파구 | [Naver](https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EC%84%9D%EC%B4%8C%EB%8F%99%EA%B3%A0%EB%B6%84%EA%B5%B0) · [src](https://www.instagram.com/reel/DXgjNheE-jG/) |
 | Haus Nowhere Seoul | 하우스 노웨어 서울 | 서울특별시 성동구 뚝섬로 433 | [Naver](https://map.naver.com/p/search/%ED%95%98%EC%9A%B0%EC%8A%A4%20%EB%85%B8%EC%9B%A8%EC%96%B4%20%EC%84%9C%EC%9A%B8) · [src](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) |
 | Dongdaemun Design Plaza (DDP) | 동대문디자인플라자 | 서울특별시 중구 을지로 281 | [Naver](https://map.naver.com/p/search/%EB%8F%99%EB%8C%80%EB%AC%B8%EB%94%94%EC%9E%90%EC%9D%B8%ED%94%8C%EB%9D%BC%EC%9E%90) · [src1](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) / [src2](https://www.instagram.com/p/DZD4-dzDSTT/?img_index=5) / [src3](https://www.instagram.com/p/DWi4jxfiVaL/?img_index=3) |
-| GT Tower | 지티타워약국 | 서울특별시 서초구 서초대로 411 | [Naver](https://map.naver.com/p/search/%EC%A7%80%ED%8B%B0%ED%83%80%EC%9B%8C%EC%95%BD%EA%B5%AD) · [src](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) |
 | Ewha Womans University | 이화여자대학교 | 서울특별시 서대문구 이화여대길 52 | [Naver](https://map.naver.com/p/search/%EC%9D%B4%ED%99%94%EC%97%AC%EC%9E%90%EB%8C%80%ED%95%99%EA%B5%90) · [src](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) |
 | National Museum of Korea | 국립고궁박물관 | 서울특별시 종로구 효자로 12 국립고궁박물관 | [Naver](https://map.naver.com/p/search/%EA%B5%AD%EB%A6%BD%EA%B3%A0%EA%B6%81%EB%B0%95%EB%AC%BC%EA%B4%80) · [src](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) |
 | Breath Coffee Works | 브레스커피웍스 | 경상북도 경주시 보불로 204-8 브레스커피웍스 | [Naver](https://map.naver.com/p/search/%EB%B8%8C%EB%A0%88%EC%8A%A4%EC%BB%A4%ED%94%BC%EC%9B%8D%EC%8A%A4) · [src1](https://www.instagram.com/p/DXeKplTjCJx/?img_index=4) / [src2](https://www.instagram.com/p/DWi4jxfiVaL/?img_index=3) |
@@ -331,7 +339,6 @@ Auto-extracted from 101 Instagram/Facebook links → 254 unique places. Geocoded
 | Place | Naver match | Address | Links |
 |---|---|---|---|
 | Starfield Library Suwon | 별마당도서관 스타필드수원점 | 경기도 수원시 장안구 수성로 175 | [Naver](https://map.naver.com/p/search/%EB%B3%84%EB%A7%88%EB%8B%B9%EB%8F%84%EC%84%9C%EA%B4%80%20%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C%EC%88%98%EC%9B%90%EC%A0%90) · [src1](https://www.instagram.com/reel/DV3U9aMsTqi/) / [src2](https://www.instagram.com/reel/DW3Y1URkywP/) |
-| Museum SAN | 산내음 파주본점 | 경기도 파주시 탄현면 평화로 885-18 산내음 | [Naver](https://map.naver.com/p/search/%EC%82%B0%EB%82%B4%EC%9D%8C%20%ED%8C%8C%EC%A3%BC%EB%B3%B8%EC%A0%90) · [src](https://www.instagram.com/reel/DXmSdgkkSQ8/) |
 | Les Jardins de Medongaule | 메덩골정원 | 경기도 양평군 양동면 메덩골길 1 주차장(입구) | [Naver](https://map.naver.com/p/search/%EB%A9%94%EB%8D%A9%EA%B3%A8%EC%A0%95%EC%9B%90) · [src1](https://www.instagram.com/reel/DXmSdgkkSQ8/) / [src2](https://www.instagram.com/p/DXeKplTjCJx/?img_index=4) |
 
 ### Fried chicken
@@ -351,8 +358,6 @@ Auto-extracted from 101 Instagram/Facebook links → 254 unique places. Geocoded
 
 | Place | Naver match | Address | Links |
 |---|---|---|---|
-| Gyeongju | 경주이주노동자센터 | 경상북도 경주시 원화로 294 | [Naver](https://map.naver.com/p/search/%EA%B2%BD%EC%A3%BC%EC%9D%B4%EC%A3%BC%EB%85%B8%EB%8F%99%EC%9E%90%EC%84%BC%ED%84%B0) · [src](https://www.instagram.com/p/DYJ7QeyEoD3/?img_index=6) |
-| Hwangridan-gil | 외가 황리단길본점 | 경상북도 경주시 사정로57번길 7 외가 | [Naver](https://map.naver.com/p/search/%EC%99%B8%EA%B0%80%20%ED%99%A9%EB%A6%AC%EB%8B%A8%EA%B8%B8%EB%B3%B8%EC%A0%90) · [src](https://www.instagram.com/p/DYJ7QeyEoD3/?img_index=6) |
 | Cakebite | 케이크한입 황리단길점 | 경상북도 경주시 태종로 751 1층 케이크한입 | [Naver](https://map.naver.com/p/search/%EC%BC%80%EC%9D%B4%ED%81%AC%ED%95%9C%EC%9E%85%20%ED%99%A9%EB%A6%AC%EB%8B%A8%EA%B8%B8%EC%A0%90) · [src](https://www.instagram.com/p/DYJ7QeyEoD3/?img_index=6) |
 | Cheomseongdae | 첨성대 | 경상북도 경주시 인왕동 839-1 | [Naver](https://map.naver.com/p/search/%EC%B2%A8%EC%84%B1%EB%8C%80) · [src](https://www.instagram.com/p/DYJ7QeyEoD3/?img_index=6) |
 | Seonhwa | 선화 | 경상북도 경주시 태종로 736-3 선화 | [Naver](https://map.naver.com/p/search/%EC%84%A0%ED%99%94) · [src](https://www.instagram.com/p/DYJ7QeyEoD3/?img_index=6) |
@@ -473,13 +478,13 @@ Auto-extracted from 101 Instagram/Facebook links → 254 unique places. Geocoded
 | Place | Locality | Source |
 |---|---|---|
 | Hongje Yuyeon (홍제유연) | Seoul (Seodaemun-gu) | [src](https://www.instagram.com/reel/DZHA6W2hl66/) |
+| South Korea  | South Korea | [src](https://www.instagram.com/p/DWTsQNSjAcb/?img_index=6) |
 
 ### Architecture
 
 | Place | Locality | Source |
 |---|---|---|
 | Club Chroma  | Seoul | [src](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) |
-| Starfield Library  | Seoul (Starfield COEX Mall) | [src](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) |
 | Seosomun Shrine History Museum  | Seoul | [src](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) |
 | Namsan Tower (Namsan Park)  | Namsan Park, Seoul | [src](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) |
 | Gangnam Station Exit 9  | Gangnam, Seoul | [src](https://www.instagram.com/p/DXbaFwOE_AH/?img_index=12) |
