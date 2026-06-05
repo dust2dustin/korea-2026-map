@@ -16,6 +16,11 @@
   .leaflet-popup-content a{color:#1565c0;text-decoration:none}
   .pin{border-radius:50%;border:2px solid #fff;box-shadow:0 0 3px rgba(0,0,0,.5)}
   .verify{outline:2px dashed #f39c12}
+  .locbtn{background:#fff;border:none;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.4);
+          width:40px;height:40px;font-size:20px;cursor:pointer;line-height:40px;text-align:center}
+  .locbtn:hover{background:#f2f2f2}
+  .me-dot{width:16px;height:16px;background:#1a73e8;border:3px solid #fff;border-radius:50%;
+          box-shadow:0 0 0 2px #1a73e8,0 0 6px rgba(0,0,0,.5)}
   .lgd b{display:inline-block;width:11px;height:11px;border-radius:50%;margin-right:5px;vertical-align:middle}
 </style></head>
 <body>
@@ -58,6 +63,33 @@ const overlays={};
 BUCKETS.forEach((b,i)=>{ overlays[`<span class="lgd"><b style="background:${b.color}"></b>${b.name}</span>`]=groups[i]; });
 L.control.layers(null, overlays, {collapsed:false, position:'topright'}).addTo(map);
 document.getElementById('count').textContent = PTS.length + ' places · toggle categories →';
+
+// --- Geolocation: find-my-location control ---
+let meMarker=null, meCircle=null;
+const LocateCtl = L.Control.extend({
+  options:{position:'topleft'},
+  onAdd:function(){
+    const b=L.DomUtil.create('button','locbtn');
+    b.innerHTML='📍'; b.title='Find my location';
+    L.DomEvent.disableClickPropagation(b);
+    b.onclick=()=>{ b.innerHTML='⏳';
+      map.locate({setView:true, maxZoom:15, enableHighAccuracy:true, timeout:10000}); };
+    this._btn=b; return b;
+  }
+});
+map.addControl(new LocateCtl());
+map.on('locationfound', e=>{
+  const r=e.accuracy/2;
+  if(meMarker){ meMarker.setLatLng(e.latlng);} else {
+    meMarker=L.marker(e.latlng,{icon:L.divIcon({className:'',html:'<div class="me-dot"></div>',iconSize:[16,16],iconAnchor:[8,8]}),zIndexOffset:1000}).addTo(map).bindPopup('You are here');
+  }
+  if(meCircle){ meCircle.setLatLng(e.latlng).setRadius(r);} else {
+    meCircle=L.circle(e.latlng,{radius:r,color:'#1a73e8',fillColor:'#1a73e8',fillOpacity:.12,weight:1}).addTo(map);
+  }
+  document.querySelectorAll('.locbtn').forEach(b=>b.innerHTML='📍');
+});
+map.on('locationerror', ()=>{ document.querySelectorAll('.locbtn').forEach(b=>b.innerHTML='📍');
+  alert('Could not get your location. Make sure location access is allowed in your browser.'); });
 
 function doFilter(){
   const q=document.getElementById('search').value.toLowerCase().trim();
